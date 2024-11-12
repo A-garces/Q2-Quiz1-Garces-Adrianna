@@ -1,0 +1,48 @@
+img {
+	width: 200px;
+	border-radius: 20%;
+}
+
+table {
+	text-align: center;
+	font-family: "Libre Baskerville", serif;
+  font-weight: 300;
+  font-style: italic;
+
+}
+
+body {
+	background-image: url(Philippines.jpg);
+	background-repeat: no-repeat;
+	 background-attachment: fixed;
+  background-size: cover;
+}
+
+p {
+	text-align: center;
+	font-family: "Libre Baskerville", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+a href {
+	color: black;
+}
+
+h1 {
+	color: #FECB00;
+	font-family: "Libre Baskerville", serif;
+  font-weight: 300;
+  font-style: italic;
+	text-align: center;
+	background-color: #0038a7;
+}
+
+h3 {
+	color: white;
+	font-family: "Libre Baskerville", serif;
+  font-weight: 300;
+  font-style: italic;
+	text-align: center;
+	background-color: #CE1127;
+}
